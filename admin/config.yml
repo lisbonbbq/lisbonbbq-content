@@ -1,0 +1,27 @@
+backend:
+  name: github
+  repo: lisbonbbq/lisbonbbq-content
+  branch: main
+
+media_folder: "content/media"
+public_folder: "/content/media"
+
+collections:
+  - name: "articles"
+    label: "Artigos"
+    folder: "content/articles"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Categoria", name: "category", widget: "select", options: ["Dicas", "Receitas", "Lisboa", "Eventos"] }
+      - { label: "Autor", name: "author", widget: "string", default: "Mestre Churrasqueiro" }
+      - { label: "Data", name: "publishedAt", widget: "datetime" }
+      - { label: "Publicado", name: "isPublished", widget: "boolean", default: false }
+      - { label: "Imagem de Capa (URL)", name: "coverImage", widget: "string", required: false }
+      - { label: "Resumo", name: "excerpt", widget: "text" }
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
