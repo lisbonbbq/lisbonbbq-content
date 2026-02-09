@@ -1,3 +1,6 @@
-[
-  { "file": "artigo-teste.md" }
-]
+{
+  "articles": [
+    { "file": "artigo-teste.md" },
+    { "file": "teste-cms.md" }
+  ]
+}
