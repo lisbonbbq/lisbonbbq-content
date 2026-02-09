@@ -27,3 +27,15 @@ collections:
       - { label: "Imagem de Capa (URL)", name: "coverImage", widget: "string", required: false }
       - { label: "Resumo", name: "excerpt", widget: "text" }
       - { label: "Conteúdo", name: "body", widget: "markdown" }
+  - name: "articles_index"
+    label: "Índice de Artigos (não mexer)"
+    files:
+      - label: "Index"
+        name: "index"
+        file: "content/articles/index.json"
+        fields:
+          - label: "Artigos"
+            name: "articles"
+            widget: "list"
+            fields:
+              - { label: "Ficheiro", name: "file", widget: "string" }
