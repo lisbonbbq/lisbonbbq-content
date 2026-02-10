@@ -16,7 +16,7 @@ Este artigo serve exatamente para isso: explicar, de forma clara, como funciona 
 
 
 
-### O que se entende por churrasco em Lisboa?
+O que se entende por churrasco em Lisboa?
 
 Em Lisboa, o churrasco é usado sobretudo em:
 
@@ -36,7 +36,7 @@ Na maioria dos casos, trata-se de um evento privado com comida grelhada, organiz
 
 
 
-### Catering de churrasco em Lisboa: o que é exatamente?
+Catering de churrasco em Lisboa: o que é exatamente?
 
 Quando se fala em catering churrasco em Lisboa, estamos a falar de um serviço que trata de:
 
@@ -72,7 +72,7 @@ Ao contrário do catering tradicional (empratado, serviço formal), o catering d
 
 
 
-### Onde é possível fazer churrasco em Lisboa?
+Onde é possível fazer churrasco em Lisboa?
 
 Na prática, há três tipos de locais onde o churrasco costuma acontecer.
 
@@ -150,7 +150,7 @@ Na prática, o que distingue um churrasco bem organizado é:
 
 
 
-### Churrasco para eventos: quando faz sentido?
+Churrasco para eventos: quando faz sentido?
 
 O churrasco funciona particularmente bem quando:
 
