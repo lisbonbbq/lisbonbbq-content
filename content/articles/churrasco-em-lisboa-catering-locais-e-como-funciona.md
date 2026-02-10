@@ -5,7 +5,7 @@ title: "Churrasco em Lisboa: catering, locais e como funciona"
 category: Eventos
 author: Pitmaster Joaquim
 publishedAt: 2026-02-09T23:57:00.000Z
-isPublished: false
+isPublished: true
 coverImage: https://images.unsplash.com/photo-1645018961045-34e2b1c5780d?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 excerpt: >
   Pesquisar por churrasco em Lisboa normalmente implica que alguém está a
