@@ -1,7 +1,7 @@
 ---
 id: carnes
 slug: como-preparar-carne-para-churrasco
-title: "Como preparar a carne para um churrasco: cortes, temperos e dicas práticas"
+title: Como preparar carne para churrasco
 category: Dicas
 author: Pitmaster Joaquim
 publishedAt: 2026-02-10T11:46:00.000Z
