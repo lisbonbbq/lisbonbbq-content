@@ -1,7 +1,7 @@
 ---
 id: catering-churrasco
-slug: catering-churrasco
-title: "Churrasco em Lisboa: catering, locais e como funciona"
+slug: churrasco-em-lisboa
+title: Churrasco em Lisboa
 category: Eventos
 author: Pitmaster Joaquim
 publishedAt: 2026-02-09T23:57:00.000Z
