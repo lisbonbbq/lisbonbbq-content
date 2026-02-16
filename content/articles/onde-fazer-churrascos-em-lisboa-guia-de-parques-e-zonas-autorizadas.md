@@ -41,11 +41,31 @@ Embora as regras de queima variem conforme a época do ano, a zona próxima ao R
 
 
 
-## 2. Tabela Comparativa de Locais para BBQ em Lisboa
+## 2. Comparação de Locais para churrasco em Lisboa
 
-![Tabela Comparativa de Locais para churrasco em Lisboa](/content/media/sem-nome.png "Tabela Comparativa de Locais para churrasco em Lisboa")
+Monsanto (S. Domingos)	\
+Grelhadores Fixos: Sim	\
+Água Próxima: Sim	\
+Sombra: Excelente	\
+Acesso Carro: Fácil
 
+Vale da Ameixoeira	\
+Grelhadores Fixos: Sim	\
+Água Próxima: Sim	\
+Sombra: Médio\
+Acesso Carro: Médio
 
+Parque Tejo	\
+Grelhadores Fixos: Limitado	\
+Água Próxima: Sim	\
+Sombra: Baixa	\
+Acesso Carro: Excelente
+
+Jardim da Estrela	\
+Grelhadores Fixos: Não\
+Água Próxima:  Sim	\
+Sombra: Alta\
+Acesso Carro: Difícil
 
 ## 3. Regras e Coimas: O que diz a Lei em 2026
 
