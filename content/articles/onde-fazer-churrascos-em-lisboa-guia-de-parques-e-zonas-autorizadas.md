@@ -39,53 +39,13 @@ Parque Tejo (Zona Norte - Expo)
 
 Embora as regras de queima variem conforme a época do ano, a zona próxima ao Rio Trancão tem áreas designadas para lazer que permitem piqueniques estruturados.
 
+
+
 ## 2. Tabela Comparativa de Locais para BBQ em Lisboa
 
-```html
-<div style="overflow-x:auto;">
-  <table style="width:100%; border-collapse: collapse; font-family: sans-serif; margin: 25px 0; font-size: 0.9em; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
-    <thead>
-      <tr style="background-color: #e63946; color: #ffffff; text-align: left; font-weight: bold;">
-        <th style="padding: 12px 15px;">Local</th>
-        <th style="padding: 12px 15px;">Grelhadores Fixos</th>
-        <th style="padding: 12px 15px;">Água Próxima</th>
-        <th style="padding: 12px 15px;">Sombra</th>
-        <th style="padding: 12px 15px;">Acesso Carro</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;"><strong>Monsanto (S. Domingos)</strong></td>
-        <td style="padding: 12px 15px;">Sim</td>
-        <td style="padding: 12px 15px;">Sim</td>
-        <td style="padding: 12px 15px;">Excelente</td>
-        <td style="padding: 12px 15px;">Fácil</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #dddddd; background-color: #f3f3f3;">
-        <td style="padding: 12px 15px;"><strong>Vale da Ameixoeira</strong></td>
-        <td style="padding: 12px 15px;">Sim</td>
-        <td style="padding: 12px 15px;">Sim</td>
-        <td style="padding: 12px 15px;">Média</td>
-        <td style="padding: 12px 15px;">Médio</td>
-      </tr>
-      <tr style="border-bottom: 1px solid #dddddd;">
-        <td style="padding: 12px 15px;"><strong>Parque Tejo</strong></td>
-        <td style="padding: 12px 15px;">Limitado</td>
-        <td style="padding: 12px 15px;">Sim</td>
-        <td style="padding: 12px 15px;">Baixa</td>
-        <td style="padding: 12px 15px;">Excelente</td>
-      </tr>
-      <tr style="border-bottom: 2px solid #e63946;">
-        <td style="padding: 12px 15px;"><strong>Jardim da Estrela</strong></td>
-        <td style="padding: 12px 15px;">Não</td>
-        <td style="padding: 12px 15px;">Sim</td>
-        <td style="padding: 12px 15px;">Alta</td>
-        <td style="padding: 12px 15px;">Difícil</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-```
+![Tabela Comparativa de Locais para churrasco em Lisboa](/content/media/sem-nome.png "Tabela Comparativa de Locais para churrasco em Lisboa")
+
+
 
 ## 3. Regras e Coimas: O que diz a Lei em 2026
 
@@ -120,4 +80,4 @@ Qual o melhor carvão para usar em parques públicos?\
 
 Quer garantir o melhor sabor sem se preocupar com as regras dos parques ou o transporte de material?
 
-[\[Clique aqui para pedir um orçamento de Catering para o seu próximo evento em Lisboa] ](lisbonbbq.pt)— Nós tratamos da brasa, você desfruta da festa.
+\[[Clique aqui para pedir um orçamento de Catering para o seu próximo evento em Lisboa] ](lisbonbbq.pt)— Nós tratamos da brasa, você desfruta da festa.
