@@ -17,285 +17,237 @@ O sucesso de um churrasco começa no fogo. Descobre como acender carvão correta
 
 Muitas pessoas concentram-se nos cortes e temperos, mas o verdadeiro segredo de um bom churrasco está no controlo do fogo.
 
-
-
 Um fogo mal gerido resulta em:
 
-	•	carne queimada por fora e crua por dentro
+```
+•	carne queimada por fora e crua por dentro
 
-	•	sabor amargo
+•	sabor amargo
 
-	•	dificuldade em controlar o ponto
+•	dificuldade em controlar o ponto
 
-	•	stress constante durante o churrasco
-
-
+•	stress constante durante o churrasco
+```
 
 Antes de pensar em virar a carne, é preciso saber criar e manter a brasa certa.
-
-
 
 ## Carvão ou lenha: qual escolher?
 
 ### Carvão vegetal
 
-
-
 É a opção mais comum em churrascos urbanos.
 
 Vantagens:
 
-	•	fácil de encontrar
+```
+•	fácil de encontrar
 
-	•	aquece rapidamente
+•	aquece rapidamente
 
-	•	produz brasa estável
+•	produz brasa estável
 
-	•	menos fumo que lenha
-
-
+•	menos fumo que lenha
+```
 
 Ideal para aniversários, churrascos em casa e eventos com tempo limitado.
-
-
 
 ### Lenha
 
 Mais tradicional e mais exigente.
 
-
-
 Vantagens:
 
-	•	sabor mais intenso
+```
+•	sabor mais intenso
 
-	•	experiência mais autêntica
-
-
+•	experiência mais autêntica
+```
 
 Desvantagens:
 
-	•	exige prática
+```
+•	exige prática
 
-	•	maior produção de fumo
+•	maior produção de fumo
 
-	•	controlo mais difícil
-
-
+•	controlo mais difícil
+```
 
 É mais usada em restaurantes especializados ou por quem já domina a técnica.
-
-
 
 ## Como acender o carvão corretamente
 
 ### Método com acendalhas naturais
 
-	1.	Colocar o carvão em forma de pirâmide.
+```
+1.	Colocar o carvão em forma de pirâmide.
 
-	2.	Inserir 1–2 acendalhas naturais na base.
+2.	Inserir 1–2 acendalhas naturais na base.
 
-	3.	Acender e deixar que o fogo suba naturalmente.
+3.	Acender e deixar que o fogo suba naturalmente.
 
-	4.	Esperar até que o carvão fique coberto de cinza branca.
-
-
+4.	Esperar até que o carvão fique coberto de cinza branca.
+```
 
 Tempo médio: 20 a 30 minutos.
 
-
-
 Evitar líquidos inflamáveis (álcool ou gasolina), pois alteram o sabor e são perigosos.
-
-
 
 ### Método com chaminé de acendimento
 
 É a forma mais eficiente.
 
-	1.	Encher a chaminé com carvão.
+```
+1.	Encher a chaminé com carvão.
 
-	2.	Colocar papel ou acendalha por baixo.
+2.	Colocar papel ou acendalha por baixo.
 
-	3.	Acender.
+3.	Acender.
 
-	4.	Esperar até o carvão estar incandescente.
+4.	Esperar até o carvão estar incandescente.
 
-	5.	Distribuir na grelha.
-
-
+5.	Distribuir na grelha.
+```
 
 Vantagem: aquece mais rápido e cria brasa uniforme.
 
-
-
-
-
 ## Quando a brasa está pronta?
-
-
 
 A brasa está pronta quando:
 
-	•	o carvão está coberto por camada cinza clara
+```
+•	o carvão está coberto por camada cinza clara
 
-	•	não existem chamas altas
+•	não existem chamas altas
 
-	•	o calor é constante
-
-
+•	o calor é constante
+```
 
 Teste simples:
 
 Segura a mão a 10–15 cm da grelha:
 
-	•	2–3 segundos → fogo forte
+```
+•	2–3 segundos → fogo forte
 
-	•	4–5 segundos → fogo médio
+•	4–5 segundos → fogo médio
 
-	•	mais de 6 segundos → fogo fraco
+•	mais de 6 segundos → fogo fraco
+```
 
-
-
-
-
-### Como distribuir o carvão na grelha
+## Como distribuir o carvão na grelha
 
 ### Zona de calor direto
 
-
-
 Carvão concentrado numa área.
-
-
 
 Usado para:
 
-	•	selar carne
+```
+•	selar carne
 
-	•	cortes grossos
+•	cortes grossos
 
-	•	criar crosta
-
-
+•	criar crosta
+```
 
 ### Zona de calor indireto
 
-
-
 Carvão deslocado para um lado da grelha.
-
-
 
 Usado para:
 
-	•	cozinhar lentamente
+```
+•	cozinhar lentamente
 
-	•	frango
+•	frango
 
-	•	peças maiores
+•	peças maiores
 
-	•	controlar excesso de calor
-
-
+•	controlar excesso de calor
+```
 
 Criar duas zonas de calor é uma técnica usada nas melhores churrasqueiras.
-
-
-
-
 
 ## Como controlar a intensidade do fogo
 
 ### Ajustar a altura da grelha
 
-
-
 Se a grelha permite ajuste:
 
-	•	mais perto → mais calor
+```
+•	mais perto → mais calor
 
-	•	mais longe → menos calor
-
-
-
-
+•	mais longe → menos calor
+```
 
 ### Espalhar ou concentrar carvão
 
-	•	Espalhar → reduz intensidade
+```
+•	Espalhar → reduz intensidade
 
-	•	Concentrar → aumenta intensidade
+•	Concentrar → aumenta intensidade
+```
 
 ### Controlar entradas de ar
 
 Se o grelhador tem ventilação:
 
-	•	mais oxigénio → mais calor
+```
+•	mais oxigénio → mais calor
 
-	•	menos oxigénio → menos intensidade
-
-
+•	menos oxigénio → menos intensidade
+```
 
 ## O que fazer quando surge chama
 
 Chama acontece quando gordura pinga.
 
-
-
 Nunca:
 
-	•	deitar água diretamente
+```
+•	deitar água diretamente
 
-	•	abanar violentamente
-
-
+•	abanar violentamente
+```
 
 Melhor solução:
 
-	•	mover a carne para zona indireta
+```
+•	mover a carne para zona indireta
 
-	•	reduzir entrada de ar
+•	reduzir entrada de ar
 
-	•	afastar temporariamente da fonte de calor
-
-
-
-
+•	afastar temporariamente da fonte de calor
+```
 
 ## Quanto tempo dura uma boa brasa?
 
 Em média:
 
-	•	1 kg de carvão → 45 a 60 minutos de brasa útil
+```
+•	1 kg de carvão → 45 a 60 minutos de brasa útil
 
-	•	2 kg → cerca de 90 minutos
-
-
+•	2 kg → cerca de 90 minutos
+```
 
 Para churrascos maiores, é importante planear reposição de carvão antes da brasa perder intensidade.
 
-
-
-
-
 ## Erros comuns ao gerir o fogo
 
-	•	colocar carne antes da brasa estar pronta
+```
+•	colocar carne antes da brasa estar pronta
 
-	•	usar chama como fonte principal de calor
+•	usar chama como fonte principal de calor
 
-	•	não criar zonas de calor
+•	não criar zonas de calor
 
-	•	tentar acelerar o processo
+•	tentar acelerar o processo
 
-	•	adicionar carvão constantemente sem necessidade
-
-
+•	adicionar carvão constantemente sem necessidade
+```
 
 O fogo deve ser preparado antes de começar a grelhar, não durante.
-
-
 
 ## Em resumo
 
@@ -303,14 +255,14 @@ Saber como acender e controlar o fogo no churrasco é o que diferencia um churra
 
 Uma boa brasa deve ser:
 
-	•	estável
+```
+•	estável
 
-	•	sem chama
+•	sem chama
 
-	•	bem distribuída
+•	bem distribuída
 
-	•	controlável
-
-
+•	controlável
+```
 
 Quando o fogo está certo, o resto torna-se muito mais simples.
