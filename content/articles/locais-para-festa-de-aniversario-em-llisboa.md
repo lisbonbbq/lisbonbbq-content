@@ -1,6 +1,6 @@
 ---
 id: "015"
-slug: locais-para-festa-de-aniversario-lisboa
+slug: locais-para-festa-de-aniversario-em-lisboa
 title: Locais para festa de aniversario em Llisboa
 category: Dicas
 author: Mestre Churrasqueiro
