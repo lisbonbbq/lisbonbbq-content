@@ -175,3 +175,5 @@ Pode compensar optar por espaço privado preparado para eventos ao ar livre.
 Antes de planear, confirma sempre as regras municipais em vigor.
 
 Espaços públicos funcionam melhor para convívios informais e grupos pequenos a médios. Para eventos maiores, pode ser útil considerar soluções com infraestrutura preparada.
+
+> Conheça a forma mais simples de organizar um churrasco em Lisboa,  conheça o Lisbon Barbecue & Churrasco -> https://lisbonbbq.pt/
