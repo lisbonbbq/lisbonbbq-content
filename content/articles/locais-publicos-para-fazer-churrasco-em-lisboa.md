@@ -13,7 +13,6 @@ excerpt: Locais públicos em Lisboa onde tradicionalmente é possível fazer
 ---
 # Locais públicos para fazer churrasco em Lisboa (com coordenadas GPS)
 
-###### \
 Conheça a forma mais simples de organizar um churrasco em Lisboa -> Conheça o [Lisbon Barbecue & Churrasco](https://lisbonbbq.pt/)
 
 Lisboa tem vários espaços verdes onde tradicionalmente se fazem churrascos informais ou piqueniques com grelha portátil. No entanto, o uso de fogo pode estar sujeito a restrições sazonais, especialmente durante períodos de risco de incêndio.
