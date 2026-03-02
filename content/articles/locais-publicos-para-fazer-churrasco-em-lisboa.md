@@ -13,13 +13,17 @@ excerpt: Locais públicos em Lisboa onde tradicionalmente é possível fazer
 ---
 # Locais públicos para fazer churrasco em Lisboa (com coordenadas GPS)
 
+###### \
+Conheça a forma mais simples de organizar um churrasco em Lisboa -> Conheça o [Lisbon Barbecue & Churrasco](https://lisbonbbq.pt/)
+
 Lisboa tem vários espaços verdes onde tradicionalmente se fazem churrascos informais ou piqueniques com grelha portátil. No entanto, o uso de fogo pode estar sujeito a restrições sazonais, especialmente durante períodos de risco de incêndio.
 
 Antes de planear, confirma sempre:
-- Regras atualizadas da Câmara Municipal
-- Proibição temporária de fogo
-- Necessidade de reserva
-- Horários de encerramento
+
+* Regras atualizadas da Câmara Municipal
+* Proibição temporária de fogo
+* Necessidade de reserva
+* Horários de encerramento
 
 Segue a lista com informação prática.
 
@@ -30,20 +34,23 @@ Segue a lista com informação prática.
 Monsanto é o maior pulmão verde de Lisboa e o local mais associado a churrascos ao ar livre.
 
 ### Ideal para:
-- Grupos médios (15–40 pessoas)
-- Aniversários informais
-- Convívios de amigos
+
+* Grupos médios (15–40 pessoas)
+* Aniversários informais
+* Convívios de amigos
 
 ### Acessos:
-- Estrada de Monsanto
-- Entrada pela A5 (Alcântara)
+
+* Estrada de Monsanto
+* Entrada pela A5 (Alcântara)
 
 ### Estacionamento:
+
 Existem várias bolsas de estacionamento distribuídas pelo parque.
 
 ### Nota:
-Algumas zonas já não têm grelhas fixas. Em muitos casos, apenas é permitido grelhador portátil e apenas fora de períodos críticos de incêndio.
 
+Algumas zonas já não têm grelhas fixas. Em muitos casos, apenas é permitido grelhador portátil e apenas fora de períodos críticos de incêndio.
 
 ## Parque da Serafina (Monsanto)
 
@@ -52,19 +59,22 @@ Algumas zonas já não têm grelhas fixas. Em muitos casos, apenas é permitido 
 Uma das zonas mais organizadas dentro de Monsanto.
 
 ### Ideal para:
-- Grupos familiares
-- Eventos com crianças
-- Piqueniques estruturados
+
+* Grupos familiares
+* Eventos com crianças
+* Piqueniques estruturados
 
 ### Estacionamento:
+
 Parque dedicado junto à entrada principal.
 
 ### Vantagem:
+
 Espaço amplo e mesas fixas.
 
 ### Desvantagem:
-Muito procurado aos fins de semana — chegar cedo é essencial.
 
+Muito procurado aos fins de semana — chegar cedo é essencial.
 
 ## Cruz das Oliveiras (Monsanto)
 
@@ -73,12 +83,13 @@ Muito procurado aos fins de semana — chegar cedo é essencial.
 Zona tradicionalmente usada para encontros informais com grelha portátil.
 
 ### Ideal para:
-- Grupos jovens
-- Eventos descontraídos
+
+* Grupos jovens
+* Eventos descontraídos
 
 ### Nota:
-Infraestrutura básica. Convém levar tudo preparado.
 
+Infraestrutura básica. Convém levar tudo preparado.
 
 ## Mata de Benfica
 
@@ -87,12 +98,13 @@ Infraestrutura básica. Convém levar tudo preparado.
 Espaço verde frequentado por moradores locais.
 
 ### Ideal para:
-- Grupos pequenos
-- Convívios rápidos
+
+* Grupos pequenos
+* Convívios rápidos
 
 ### Atenção:
-Confirmar sempre se o uso de carvão está autorizado na altura.
 
+Confirmar sempre se o uso de carvão está autorizado na altura.
 
 ## Parque Urbano do Jamor (Área Metropolitana)
 
@@ -101,15 +113,17 @@ Confirmar sempre se o uso de carvão está autorizado na altura.
 Zona ampla com tradição de piqueniques e encontros de grupo.
 
 ### Ideal para:
-- Grupos grandes
-- Eventos de dia inteiro
+
+* Grupos grandes
+* Eventos de dia inteiro
 
 ### Estacionamento:
+
 Várias zonas ao longo do complexo.
 
 ### Nota:
-Nem todas as áreas permitem grelha. Confirmar previamente.
 
+Nem todas as áreas permitem grelha. Confirmar previamente.
 
 ## Parque José Afonso (Algés)
 
@@ -118,45 +132,44 @@ Nem todas as áreas permitem grelha. Confirmar previamente.
 Espaço verde com ambiente mais organizado.
 
 ### Ideal para:
-- Aniversários familiares
-- Grupos até 30 pessoas
+
+* Aniversários familiares
+* Grupos até 30 pessoas
 
 ### Vantagem:
-Mais estruturado do que zonas florestais abertas.
 
+Mais estruturado do que zonas florestais abertas.
 
 # O que deves confirmar antes de fazer churrasco num parque público
 
-- Se é permitido usar carvão
-- Se existem zonas específicas obrigatórias
-- Se há risco de incêndio elevado
-- Horários de funcionamento
-- Se o espaço pode ser reservado
+* Se é permitido usar carvão
+* Se existem zonas específicas obrigatórias
+* Se há risco de incêndio elevado
+* Horários de funcionamento
+* Se o espaço pode ser reservado
 
 As regras podem mudar consoante a época do ano.
-
 
 # Limitações dos espaços públicos
 
 Apesar de serem económicos, estes espaços têm desafios:
 
-- Não são exclusivos
-- Podem ficar lotados
-- Dependem totalmente do clima
-- Infraestrutura limitada
-- Não permitem reservas formais em muitos casos
+* Não são exclusivos
+* Podem ficar lotados
+* Dependem totalmente do clima
+* Infraestrutura limitada
+* Não permitem reservas formais em muitos casos
 
 Para grupos acima de 30–40 pessoas, a logística começa a tornar-se complexa.
-
 
 # Quando considerar alternativa
 
 Se o objetivo for:
 
-- Maior controlo
-- Privacidade
-- Estrutura pronta
-- Menos imprevisibilidade
+* Maior controlo
+* Privacidade
+* Estrutura pronta
+* Menos imprevisibilidade
 
 Pode compensar optar por espaço privado preparado para eventos ao ar livre.
 
