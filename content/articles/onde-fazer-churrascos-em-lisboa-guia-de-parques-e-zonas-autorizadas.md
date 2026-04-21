@@ -19,6 +19,8 @@ excerpt: >-
 
 Lisboa dispõe de parques urbanos equipados com infraestruturas fixas (mesas e grelhadores). Estes são os locais "oficiais" onde o risco de coima é zero, desde que respeite as regras do parque.
 
+> Este conteúdo é oferecido pelo Lisbon Barbecue & Churrasco, um serviço de arrive, party & leave de churrascos urbanos na cidade de Lisboa -> [lisbonbbq.pt](lisbonbbq.pt)
+
 ### Parque de Merendas de Monsanto (Mata de São Domingos de Benfica)
 
 O "pulmão de Lisboa" é o destino número um.
@@ -38,8 +40,6 @@ Infraestrutura: Zona de merendas moderna com sombras naturais.
 Parque Tejo (Zona Norte - Expo)
 
 Embora as regras de queima variem conforme a época do ano, a zona próxima ao Rio Trancão tem áreas designadas para lazer que permitem piqueniques estruturados.
-
-
 
 ## 2. Comparação de Locais para churrasco em Lisboa
 
