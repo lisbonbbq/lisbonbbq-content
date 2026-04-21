@@ -15,6 +15,8 @@ excerpt: "Guia para organizar team building ao ar livre em Lisboa: tipos de
 
 Organizar um team building ao ar livre em Lisboa é uma das formas mais eficazes de reforçar ligação entre equipas fora do contexto formal do escritório.
 
+> Este conteúdo é oferecido pelo Lisbon Barbecue & Churrasco, um serviço de arrive, party & leave de churrascos urbanos na cidade de Lisboa -> [lisbonbbq.pt](lisbonbbq.pt)
+
 Com clima favorável grande parte do ano, Lisboa permite eventos exteriores que combinam atividade, convívio e comida num ambiente descontraído.
 
 Neste guia explicamos que formatos funcionam melhor, onde organizar e o que considerar.
@@ -23,10 +25,10 @@ Neste guia explicamos que formatos funcionam melhor, onde organizar e o que cons
 
 Comparado com atividades indoor, o formato exterior oferece:
 
-- Ambiente menos formal
-- Maior liberdade de interação
-- Espaço para equipas grandes
-- Experiência memorável fora da rotina
+* Ambiente menos formal
+* Maior liberdade de interação
+* Espaço para equipas grandes
+* Experiência memorável fora da rotina
 
 O contexto natural reduz barreiras hierárquicas e facilita comunicação.
 
@@ -36,34 +38,34 @@ O contexto natural reduz barreiras hierárquicas e facilita comunicação.
 
 Exemplos:
 
-- Jogos colaborativos
-- Desafios em equipa
-- Mini competições informais
-- Atividades físicas moderadas
+* Jogos colaborativos
+* Desafios em equipa
+* Mini competições informais
+* Atividades físicas moderadas
 
 Funcionam bem para grupos entre 20 e 60 pessoas.
 
----
+- - -
 
 ### Atividade + convívio com comida
 
 Modelo muito utilizado:
 
-- Atividade de 60–90 minutos
-- Seguido de convívio com comida ao ar livre
+* Atividade de 60–90 minutos
+* Seguido de convívio com comida ao ar livre
 
 Permite equilíbrio entre objetivo empresarial e momento social.
 
----
+- - -
 
 ### Formato exclusivamente social
 
 Em alguns casos, o team building é essencialmente um convívio estruturado:
 
-- Espaço ao ar livre
-- Música ambiente
-- Comida em formato informal (ex: churrasco)
-- Interação espontânea
+* Espaço ao ar livre
+* Música ambiente
+* Comida em formato informal (ex: churrasco)
+* Interação espontânea
 
 Funciona particularmente bem como summer event ou evento trimestral.
 
@@ -75,26 +77,26 @@ São a solução mais equilibrada para equipas entre 30 e 80 pessoas.
 
 Oferecem:
 
-- Área exclusiva
-- Infraestrutura pronta
-- Zona de comida organizada
-- Maior controlo logístico
+* Área exclusiva
+* Infraestrutura pronta
+* Zona de comida organizada
+* Maior controlo logístico
 
 Reduzem imprevisibilidade e facilitam planeamento.
 
----
+- - -
 
 ### Quintas e espaços rurais nos arredores
 
 Indicados para:
 
-- Equipas maiores
-- Eventos com programação formal
-- Atividades estruturadas de maior duração
+* Equipas maiores
+* Eventos com programação formal
+* Atividades estruturadas de maior duração
 
 Normalmente implicam aluguer por bloco horário.
 
----
+- - -
 
 ### Parques públicos
 
@@ -102,9 +104,9 @@ Podem ser opção para equipas pequenas e eventos muito informais.
 
 Limitações:
 
-- Falta de exclusividade
-- Dependência das regras municipais
-- Logística a cargo da empresa
+* Falta de exclusividade
+* Dependência das regras municipais
+* Logística a cargo da empresa
 
 Para eventos corporate, geralmente não são a primeira escolha.
 
@@ -123,25 +125,25 @@ Este formato mantém ritmo e evita dispersão.
 
 Os valores variam conforme:
 
-- Tipo de espaço
-- Número de pessoas
-- Tipo de atividade
-- Nível de serviço incluído
+* Tipo de espaço
+* Número de pessoas
+* Tipo de atividade
+* Nível de serviço incluído
 
 Estimativa geral:
 
-- 25€ a 45€ por pessoa → evento simples ao ar livre
-- 45€ a 70€ por pessoa → evento estruturado com atividade formal e logística completa
+* 25€ a 45€ por pessoa → evento simples ao ar livre
+* 45€ a 70€ por pessoa → evento estruturado com atividade formal e logística completa
 
 Empresas valorizam previsibilidade orçamental.
 
 ## O que garantir antes de confirmar
 
-- Número final de participantes
-- Plano B para clima
-- Acessos e estacionamento
-- Horário definido
-- Estrutura mínima (WC, zona de sombra, apoio)
+* Número final de participantes
+* Plano B para clima
+* Acessos e estacionamento
+* Horário definido
+* Estrutura mínima (WC, zona de sombra, apoio)
 
 Eventos corporate exigem mais organização do que festas privadas.
 
@@ -149,10 +151,10 @@ Eventos corporate exigem mais organização do que festas privadas.
 
 Quando bem organizado, um team building ao ar livre:
 
-- Reforça relações interpessoais
-- Melhora comunicação informal
-- Reduz tensão interna
-- Cria memória coletiva positiva
+* Reforça relações interpessoais
+* Melhora comunicação informal
+* Reduz tensão interna
+* Cria memória coletiva positiva
 
 O ambiente exterior facilita abertura e colaboração.
 
@@ -160,10 +162,10 @@ O ambiente exterior facilita abertura e colaboração.
 
 Organizar team building ao ar livre em Lisboa é uma solução eficaz para empresas que procuram:
 
-- Ambiente descontraído
-- Maior envolvimento da equipa
-- Evento diferenciador
-- Equilíbrio entre atividade e convívio
+* Ambiente descontraído
+* Maior envolvimento da equipa
+* Evento diferenciador
+* Equilíbrio entre atividade e convívio
 
 A escolha do espaço e formato determinam o sucesso.
 
