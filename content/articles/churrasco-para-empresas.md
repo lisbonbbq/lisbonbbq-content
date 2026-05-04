@@ -1,7 +1,7 @@
 ---
 id: "098"
-slug: Churrasco para Empresas
-title: churrasco-para-empresas
+slug: churrasco-para-empresas
+title: Churrasco para Empresas
 category: Eventos
 author: Mestre Churrasqueiro
 publishedAt: 2026-05-04T14:28:00.000Z
